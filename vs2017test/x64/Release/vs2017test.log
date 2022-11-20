@@ -1,0 +1,24 @@
+﻿  Cell.cpp
+C:\Users\itaym\OneDrive\Desktop\Project gmar\vs2017test\Cell.cpp(56,9): warning C4101: 'j': unreferenced local variable
+C:\Users\itaym\OneDrive\Desktop\Project gmar\vs2017test\Cell.cpp(56,6): warning C4101: 'i': unreferenced local variable
+  CompareCell.cpp
+  CompareCellF.cpp
+  main.cpp
+C:\Users\itaym\OneDrive\Desktop\Project gmar\vs2017test\main.cpp(353,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\itaym\OneDrive\Desktop\Project gmar\vs2017test\main.cpp(361,32): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\itaym\OneDrive\Desktop\Project gmar\vs2017test\main.cpp(390,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Path.cpp
+main.obj : error LNK2001: unresolved external symbol __imp___glutCreateWindowWithExit
+main.obj : error LNK2001: unresolved external symbol __imp___glutInitWithExit
+main.obj : error LNK2001: unresolved external symbol __imp_glutAddMenuEntry
+main.obj : error LNK2001: unresolved external symbol __imp_glutAttachMenu
+main.obj : error LNK2001: unresolved external symbol __imp_glutPostRedisplay
+main.obj : error LNK2001: unresolved external symbol __imp___glutCreateMenuWithExit
+main.obj : error LNK2001: unresolved external symbol __imp_glutIdleFunc
+main.obj : error LNK2001: unresolved external symbol __imp_glutInitDisplayMode
+main.obj : error LNK2001: unresolved external symbol __imp_glutDisplayFunc
+main.obj : error LNK2001: unresolved external symbol __imp_glutMainLoop
+main.obj : error LNK2001: unresolved external symbol __imp_glutInitWindowPosition
+main.obj : error LNK2001: unresolved external symbol __imp_glutInitWindowSize
+main.obj : error LNK2001: unresolved external symbol __imp_glutSwapBuffers
+C:\Users\itaym\OneDrive\Desktop\Project gmar\x64\Release\vs2017test.exe : fatal error LNK1120: 13 unresolved externals
