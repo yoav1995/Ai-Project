@@ -1,5 +1,5 @@
 #pragma once
-#include "CompareCell.h"
+#include "CompareCell.hpp"
 
 CompareCell::CompareCell()
 {

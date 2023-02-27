@@ -53,40 +53,40 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="glut.h">
+    <ClInclude Include="glut.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="CompareCell.h">
+    <ClInclude Include="CompareCell.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="CompareCellF.h">
+    <ClInclude Include="CompareCellF.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Cell.h">
+    <ClInclude Include="Cell.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="State.h">
+    <ClInclude Include="State.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="CollectCoins.h">
+    <ClInclude Include="CollectCoins.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="RunFromGhosts.h">
+    <ClInclude Include="RunFromGhosts.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="ChaseGhosts.h">
+    <ClInclude Include="ChaseGhosts.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Pacman.h">
+    <ClInclude Include="Pacman.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Ghost.h">
+    <ClInclude Include="Ghost.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Globals.h">
+    <ClInclude Include="Globals.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="compareCellCoins.h">
+    <ClInclude Include="compareCellCoins.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

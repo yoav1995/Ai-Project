@@ -1,7 +1,7 @@
 #pragma once
-#include "RunFromGhosts.h"
-#include "CollectCoins.h"
-#include "ChaseGhosts.h"
+#include "RunFromGhosts.hpp"
+#include "CollectCoins.hpp"
+#include "ChaseGhosts.hpp"
 
 RunFromGhosts::RunFromGhosts() = default;
 

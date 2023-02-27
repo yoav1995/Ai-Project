@@ -1,5 +1,5 @@
 #pragma once
-#include "Cell.h"
+#include "Cell.hpp"
 #include <math.h>
 #include <iostream>
 

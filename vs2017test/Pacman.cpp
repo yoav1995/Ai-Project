@@ -1,7 +1,7 @@
-#include "Pacman.h"
-#include "CollectCoins.h"
-#include "glut.h"
-#include "compareCellCoins.h"
+#include "Pacman.hpp"
+#include "CollectCoins.hpp"
+#include "glut.hpp"
+#include "compareCellCoins.hpp"
 #include <queue>
 #include <vector>
 

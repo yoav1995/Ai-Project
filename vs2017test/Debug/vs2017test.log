@@ -1,3 +1,27 @@
-﻿  Ghost.cpp
-C:\Users\shell\Downloads\Project gmar\Project gmar\vs2017test\Pacman.h(29,34): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
-  vs2017test.vcxproj -> C:\Users\shell\Downloads\Project gmar\Project gmar\Debug\vs2017test.exe
+﻿  Cell.cpp
+  ChaseGhosts.cpp
+C:\Users\yoavh\OneDrive\Desktop\Studies\Chosen_Caurses\AI\FinalProject\vs2017test\Pacman.hpp(29,34): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  CollectCoins.cpp
+C:\Users\yoavh\OneDrive\Desktop\Studies\Chosen_Caurses\AI\FinalProject\vs2017test\Pacman.hpp(29,34): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  CompareCell.cpp
+  compareCellCoins.cpp
+  CompareCellF.cpp
+  Ghost.cpp
+C:\Users\yoavh\OneDrive\Desktop\Studies\Chosen_Caurses\AI\FinalProject\vs2017test\Pacman.hpp(29,34): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Globals.cpp
+  main.cpp
+C:\Users\yoavh\OneDrive\Desktop\Studies\Chosen_Caurses\AI\FinalProject\vs2017test\Pacman.hpp(29,34): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\yoavh\OneDrive\Desktop\Studies\Chosen_Caurses\AI\FinalProject\vs2017test\main.cpp(313,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\yoavh\OneDrive\Desktop\Studies\Chosen_Caurses\AI\FinalProject\vs2017test\main.cpp(346,32): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\yoavh\OneDrive\Desktop\Studies\Chosen_Caurses\AI\FinalProject\vs2017test\main.cpp(439,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Pacman.cpp
+C:\Users\yoavh\OneDrive\Desktop\Studies\Chosen_Caurses\AI\FinalProject\vs2017test\Pacman.hpp(29,34): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\yoavh\OneDrive\Desktop\Studies\Chosen_Caurses\AI\FinalProject\vs2017test\Pacman.cpp(97,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\yoavh\OneDrive\Desktop\Studies\Chosen_Caurses\AI\FinalProject\vs2017test\Pacman.cpp(101,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\yoavh\OneDrive\Desktop\Studies\Chosen_Caurses\AI\FinalProject\vs2017test\Pacman.cpp(235,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  RunFromGhosts.cpp
+C:\Users\yoavh\OneDrive\Desktop\Studies\Chosen_Caurses\AI\FinalProject\vs2017test\Pacman.hpp(29,34): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  State.cpp
+C:\Users\yoavh\OneDrive\Desktop\Studies\Chosen_Caurses\AI\FinalProject\vs2017test\Pacman.hpp(29,34): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  vs2017test.vcxproj -> C:\Users\yoavh\OneDrive\Desktop\Studies\Chosen_Caurses\AI\FinalProject\Debug\vs2017test.exe

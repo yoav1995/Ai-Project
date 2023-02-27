@@ -1,7 +1,7 @@
 #pragma once
-#include "CollectCoins.h"
-#include "ChaseGhosts.h"
-#include "RunFromGhosts.h"
+#include "CollectCoins.hpp"
+#include "ChaseGhosts.hpp"
+#include "RunFromGhosts.hpp"
 
 
 

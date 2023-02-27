@@ -1,7 +1,7 @@
 #pragma once
-#include "ChaseGhosts.h"
-#include "CollectCoins.h"
-#include "RunFromGhosts.h"
+#include "ChaseGhosts.hpp"
+#include "CollectCoins.hpp"
+#include "RunFromGhosts.hpp"
 
 ChaseGhosts::ChaseGhosts()
 {

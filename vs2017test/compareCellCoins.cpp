@@ -1,5 +1,5 @@
 #pragma once
-#include "CompareCellCoins.h"
+#include "CompareCellCoins.hpp"
 
 CompareCellCoins::CompareCellCoins()
 {

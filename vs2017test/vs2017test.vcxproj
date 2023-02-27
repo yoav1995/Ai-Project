@@ -132,18 +132,18 @@
     <ClCompile Include="State.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Cell.h" />
-    <ClInclude Include="ChaseGhosts.h" />
-    <ClInclude Include="CollectCoins.h" />
-    <ClInclude Include="CompareCell.h" />
-    <ClInclude Include="compareCellCoins.h" />
-    <ClInclude Include="CompareCellF.h" />
-    <ClInclude Include="Ghost.h" />
-    <ClInclude Include="Globals.h" />
-    <ClInclude Include="glut.h" />
-    <ClInclude Include="Pacman.h" />
-    <ClInclude Include="RunFromGhosts.h" />
-    <ClInclude Include="State.h" />
+    <ClInclude Include="Cell.hpp" />
+    <ClInclude Include="ChaseGhosts.hpp" />
+    <ClInclude Include="CollectCoins.hpp" />
+    <ClInclude Include="CompareCell.hpp" />
+    <ClInclude Include="compareCellCoins.hpp" />
+    <ClInclude Include="CompareCellF.hpp" />
+    <ClInclude Include="Ghost.hpp" />
+    <ClInclude Include="Globals.hpp" />
+    <ClInclude Include="glut.hpp" />
+    <ClInclude Include="Pacman.hpp" />
+    <ClInclude Include="RunFromGhosts.hpp" />
+    <ClInclude Include="State.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

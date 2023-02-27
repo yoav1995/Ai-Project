@@ -1,16 +1,13 @@
-//End Proj
-//itay mortov 316334697
-//Yoav Herman 315822270
 #pragma once
 #include <cstdio>
-#include "glut.h"
-#include "CompareCell.h"
-#include "CompareCellF.h"
-#include "Globals.h"
+#include "glut.hpp"
+#include "CompareCell.hpp"
+#include "CompareCellF.hpp"
+#include "Globals.hpp"
 #include <queue>
 #include <vector>
-#include "Pacman.h"
-#include "Ghost.h"
+#include "Pacman.hpp"
+#include "Ghost.hpp"
 
 using namespace global;
 using namespace std;

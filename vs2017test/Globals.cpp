@@ -1,5 +1,5 @@
 #pragma once
-#include "Globals.h"
+#include "Globals.hpp"
 
 using namespace global;
 

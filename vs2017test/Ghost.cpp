@@ -1,6 +1,6 @@
 #pragma once
 
-#include "Ghost.h"
+#include "Ghost.hpp"
 
 
 Ghost::Ghost()
